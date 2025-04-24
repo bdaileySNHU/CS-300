@@ -1,1 +1,5 @@
 # CS-300
+
+For this course we were looking for a way to store a List of courses storing their names, IDs, and required prerequisites. We wanted a way to print the list of courses or a specific course. To approach this problem we want to analyze and choose a data structure that we can use to store the relevant information on the courses. I created a structure that would store the name, id, and prerequisites. Then after analyzing several different data structures, vector, hash table, and binary tree I landed on using a binary tree to store the data. One benefit is that it is sorted when courses are added. 
+
+It can be overwhelming to create a project from scrach. Taking the pseudocode that was refined with feedback from my instructor made it easier to make the final project. This approach makes it a lot easier in that we can focus on the best way to solve the problem first then move on to implementing the solution afterwards. I tried to make sure that I used comments to document the code. It made it a lot easier to tell what each piece of code does and how it relates to the psuedocode. 
